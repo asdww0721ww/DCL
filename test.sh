@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 /home/linqx/miniconda3/envs/rvos/bin/python test2.py --batch_size 4 --load_weights_path /data/linqx/Models/m3m3dt/m20_reslstm_01_model_state_epoch_39 --gpus 0 --epochs 1
